@@ -18,7 +18,7 @@ data:extend({{
     }},
     unit = {
         count = 50,
-        ingredients = {{"automation-science-pack", 5}},
+        ingredients = {{"automation-science-pack", 5},{"logistic-science-pack", 5}},
         time = 5
     },
     prerequisites = {"automation-2"}
