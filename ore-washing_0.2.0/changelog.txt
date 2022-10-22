@@ -1,0 +1,5 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.2.0
+Date: 2022-22-10
+  Changes:
+    - Changed the inital ore washing technology to be after automation 2 instead of automation

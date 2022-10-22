@@ -1,0 +1,12 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.2.0
+Date: 2022-22-10
+  Changes:
+    - Changed the inital ore washing technology to be after automation 2 instead of automation
+---------------------------------------------------------------------------------------------------
+Version: 0.3.0
+Date: 2022-22-10
+  Changes:
+    - Fixed order of Technology Research again
+  Known Issues:
+    - Technologies show up as `Unknown entity` I don't know why, they are defined in the locale
