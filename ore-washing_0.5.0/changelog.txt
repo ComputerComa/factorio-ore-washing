@@ -1,0 +1,25 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.2.0
+Date: 2022-10-22
+  Changes:
+    - Changed the inital ore washing technology to be after automation 2 instead of automation
+---------------------------------------------------------------------------------------------------
+Version: 0.3.0
+Date: 2022-10-22
+  Changes:
+    - Fixed order of Technology Research again
+  Known Issues:
+    - Technologies show up as `Unknown entity` I don't know why, they are defined in the locale
+---------------------------------------------------------------------------------------------------
+Version: 0.4.0
+Date: 2022-10-23
+  Changes:
+    - Reduced Crafting times for the ore washing recipies
+  Fixes:
+    - Known error from version 0.3.0 was fixed
+---------------------------------------------------------------------------------------------------
+Version: 0.5.0
+Date: 2022-11-25
+  Changes:
+   - Migrated all ore washing recipies to be under the chemistry category
+    
