@@ -4,7 +4,8 @@ data:extend({
         name = "ore-polishing-crystal",
         enabled = false,
         always_show_made_in = true,
-        category = "crafting-with-fluid",
+    hide_from_player_crafting = true,
+    category = "ore-washing-recipes",
         energy_required = 0.25,
         ingredients =
         {
@@ -21,6 +22,7 @@ data:extend({
         enabled = false,
         energy_required = 0.25,
         always_show_made_in = true,
+    hide_from_player_crafting = true,
         category = "smelting",
         ingredients =
         {
@@ -39,7 +41,8 @@ data:extend({
         tint = {r = 128 / 255, g = 0 / 255, b = 0 / 255},
         icon_size = 64,
         always_show_made_in = true,
-        category = "chemistry",
+    hide_from_player_crafting = true,
+    category = "ore-washing-recipes",
         subgroup = "fluid-recipes",
         ingredients =
         {
@@ -60,7 +63,8 @@ data:extend({
         tint = {r = 128 / 255, g = 0 / 255, b = 0 / 255},
         icon_size = 64,
         always_show_made_in = true,
-        category = "chemistry",
+    hide_from_player_crafting = true,
+    category = "ore-washing-recipes",
         subgroup = "fluid-recipes",
         ingredients =
         {
@@ -77,13 +81,14 @@ data:extend({
     {
         type = "recipe",
         name = "tier-3-washed-copper-ore",
+    hide_from_player_crafting = true,
         enabled = false,
         energy_required = 0.25,
         icon = "__base__/graphics/icons/copper-ore.png",
         tint = {r = 128 / 255, g = 0 / 255, b = 0 / 255},
         icon_size = 64,
         always_show_made_in = true,
-        category = "chemistry",
+    category = "ore-washing-recipes",
         subgroup = "fluid-recipes",
         ingredients =
         {
@@ -106,7 +111,8 @@ data:extend({
         tint = {r = 128 / 255, g = 0 / 255, b = 0 / 255},
         icon_size = 64,
         always_show_made_in = true,
-        category = "chemistry",
+    hide_from_player_crafting = true,
+    category = "ore-washing-recipes",
         subgroup = "fluid-recipes",
         ingredients =
         {
@@ -127,7 +133,8 @@ data:extend({
         tint = {r = 128 / 255, g = 0 / 255, b = 0 / 255},
         icon_size = 64,
         always_show_made_in = true,
-        category = "chemistry",
+    hide_from_player_crafting = true,
+    category = "ore-washing-recipes",
         subgroup = "fluid-recipes",
         ingredients =
         {
@@ -150,7 +157,8 @@ data:extend({
         tint = {r = 128 / 255, g = 0 / 255, b = 0 / 255},
         icon_size = 64,
         always_show_made_in = true,
-        category = "chemistry",
+    hide_from_player_crafting = true,
+    category = "ore-washing-recipes",
         subgroup = "fluid-recipes",
         ingredients =
         {
@@ -173,6 +181,7 @@ data:extend({
         tint = {r = 128 / 255, g = 0 / 255, b = 0 / 255},
         icon_size = 64,
         always_show_made_in = true,
+    hide_from_player_crafting = true,
         category = "smelting",
         ingredients =
         {
@@ -191,6 +200,7 @@ data:extend({
         tint = {r = 128 / 255, g = 0 / 255, b = 0 / 255},
         icon_size = 64,
         always_show_made_in = true,
+    hide_from_player_crafting = true,
         category = "smelting",
         ingredients =
         {
@@ -209,6 +219,7 @@ data:extend({
         tint = {r = 128 / 255, g = 0 / 255, b = 0 / 255},
         icon_size = 64,
         always_show_made_in = true,
+    hide_from_player_crafting = true,
         category = "smelting",
         ingredients =
         {
@@ -227,6 +238,7 @@ data:extend({
         tint = {r = 128 / 255, g = 0 / 255, b = 0 / 255},
         icon_size = 64,
         always_show_made_in = true,
+    hide_from_player_crafting = true,
         category = "smelting",
         ingredients =
         {
@@ -245,6 +257,7 @@ data:extend({
         tint = {r = 128 / 255, g = 0 / 255, b = 0 / 255},
         icon_size = 64,
         always_show_made_in = true,
+    hide_from_player_crafting = true,
         category = "smelting",
         ingredients =
         {
@@ -263,6 +276,7 @@ data:extend({
         tint = {r = 128 / 255, g = 0 / 255, b = 0 / 255},
         icon_size = 64,
         always_show_made_in = true,
+    hide_from_player_crafting = true,
         category = "smelting",
         ingredients =
         {
