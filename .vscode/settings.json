@@ -1,0 +1,10 @@
+{
+    "Lua.diagnostics.globals": [
+        "data",
+        "hit_effects",
+        "util",
+        "assembler3pipepictures",
+        "sounds",
+        "pipecoverspictures"
+    ]
+}
