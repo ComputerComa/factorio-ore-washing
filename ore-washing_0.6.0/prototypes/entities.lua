@@ -12,7 +12,6 @@ data:extend({
     max_health = 500,
     corpse = "assembling-machine-1-remnants",
     dying_explosion = "assembling-machine-1-explosion",
-    gui_title_key="ore-washing-facility-prompt",
     resistances =
     {
       {
