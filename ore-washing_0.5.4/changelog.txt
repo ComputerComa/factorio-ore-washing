@@ -35,15 +35,7 @@ Date: 2023-01-26
   Changes:
     - Fixed Ore washing 3 not having the Chemical Pack Prerequisite even though it requires Chemical Packs to research
 ---------------------------------------------------------------------------------------------------
-Version: 0.6.0
-Date: 2023-01-27
-  Additions:
-    - Added an ore washing facility
+Version: 0.5.4
+Date: 2023-07-08
   Changes:
-    - Moved ore washing recipes to their own category
----------------------------------------------------------------------------------------------------
-Version: 0.6.1
-Date: 2023-02-10
-  Changes:
-    - Change Module Slot to 8 for Ore washing Machines
-    - Change Crafting speed to 1.5
+    - Rebalanced some recipies
